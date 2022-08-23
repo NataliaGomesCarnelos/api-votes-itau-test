@@ -1,0 +1,43 @@
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse e Maven
+target/
+/target/
+/target
+**/target/**
+bin/
+/bin/
+.settings
+.project
+.classpath
+dependency-reduced-pom.xml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+target/
+.serverless/
+node_modules/
+
+# IntelliJ #
+.idea
+
+# Report #
+/output/
+
+## node ##
+node_modules/
